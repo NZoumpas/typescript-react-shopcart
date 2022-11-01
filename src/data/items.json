@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ananan",
+    "price": 10.99,
+    "imgUrl": "/imgs/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Computer",
+    "price": 10.99,
+    "imgUrl": "/imgs/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "price": 10.99,
+    "imgUrl": "/imgs/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cofee",
+    "price": 10.99,
+    "imgUrl": "/imgs/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tekila",
+    "price": 10.99,
+    "imgUrl": "/imgs/2.jpg"
+  }
+]
